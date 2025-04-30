@@ -1,0 +1,29 @@
+# Fichiers de configuration générés automatiquement
+config.json
+transcribe_state.json
+
+# Répertoires de cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Répertoires de sauvegarde ou d’archives
+archive/
+output/
+
+# Fichiers générés (ex. : transcriptions)
+*.txt
+*.log
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
