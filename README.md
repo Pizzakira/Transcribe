@@ -1,4 +1,4 @@
-# 🎙️ Audio-to-Text Transcription with Whisper and Tkinter
+# 🎙️ TRANSCRIBE : Audio-to-Text Transcription with Whisper and Tkinter
 
 This user-friendly Python application converts audio files (MP3, WAV, M4A, FLAC, etc.) into text using OpenAI’s Whisper model via a simple, multilingual Tkinter GUI.
 
