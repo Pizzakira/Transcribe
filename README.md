@@ -136,10 +136,6 @@ python transcribe_gui.py
     → Checks for Whisper model updates and notifies the user.
     Status: ❌ Dropped (feature removed at your request)
 
-    Offline mode with preloaded models
-    → Allows Whisper to run without internet using locally available models.
-    Status: ✅ Implemented (via whisper default behavior if models are cached)
-
     Automatic ffmpeg verification
     → Checks if ffmpeg is available at launch, displays error otherwise.
     Status: ✅ Implemented

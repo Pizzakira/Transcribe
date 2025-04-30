@@ -19,7 +19,6 @@ except ImportError:
     raise
 
 # === Dictionnaires ===
-
 LANGUAGES_UI = {
     "fr": {
         "Automatique": None, "Anglais": "en", "Français": "fr", "Portugais": "pt", "Japonais": "ja",
